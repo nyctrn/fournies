@@ -1,5 +1,4 @@
 import React from "react";
-
 import "./Tabledata.css";
 
 const Tabledata = (props) => {
